@@ -2,6 +2,7 @@
 Khai thác dữ liệu lớn sử dụng Spark
 
 # BÁO CÁO PROJECT
+Sử dụng đường link tìm tài liệu: https://www.semanticscholar.org/
 
 ## I. Giới thiệu bài toán (2 trang)
 ## II. Nghiên cứu liên quan (3 trang)
